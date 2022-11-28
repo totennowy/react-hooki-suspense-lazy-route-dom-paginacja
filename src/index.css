@@ -1,0 +1,11 @@
+@import "./styles/_resets.scss";
+
+body {
+  font-family: "Inconsolata", monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: "Inconsolata", monospace;
+}
